@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Truimph
-- 👀 I’m interested in btech final year
-- 🌱 I’m currently learning electronics
+- 👀 I’m interested in c,c++
+- 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on software
 - 📫 How to reach me ...
 
